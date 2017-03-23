@@ -5,3 +5,31 @@ body {
   padding: 40px 15px;
   text-align: center;
 }
+
+.kansas-header {
+    height: 400px;
+    background: url('./images/kansasBG.jpg') center center no-repeat scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.gonzaga-header {
+    height: 400px;
+    background: url('./images/GonzagaBG.jpg') center center no-repeat scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.kentucky-header {
+    height: 400px;
+    background: url('./images/kentuckyBG.jpg') center center no-repeat scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    color: #0033a0
+}
