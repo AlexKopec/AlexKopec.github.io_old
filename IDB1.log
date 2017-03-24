@@ -1,0 +1,168 @@
+commit 4d1b1c776176e1562e852364a5c24286ef691979
+Author: AlexKopec <kopec_alex@utexas.edu>
+Date:   Thu Mar 23 19:19:40 2017 -0500
+
+    Added a back button that uses javascript which closes #16
+
+commit 27bdd93a4631f90697930c8849226b8c51cdf1d6
+Author: AlexKopec <kopec_alex@utexas.edu>
+Date:   Thu Mar 23 19:07:10 2017 -0500
+
+    add highlight video to player pages, closes #10
+
+commit 2e0040f8abf399fbe4dca52ae91296503a27ba73
+Author: AlexKopec <kopec_alex@utexas.edu>
+Date:   Thu Mar 23 18:48:45 2017 -0500
+
+    fixed coaches link on navbar
+
+commit a292041897874b91374c0b74590df418a4e112c8
+Author: Logan Liebsch <loganliebsch@utexas.edu>
+Date:   Thu Mar 23 18:13:38 2017 -0500
+
+    fix style typo
+
+commit b1e3c8ff11979dab1a3e126479ca14a3bbf2da1d
+Author: Logan Liebsch <loganliebsch@utexas.edu>
+Date:   Thu Mar 23 18:07:24 2017 -0500
+
+    closes #9
+
+commit 5448315f3c1efa282398f205e6c274eba509e04f
+Author: Ahsan Hussain <ahsanhussain@wireless-10-146-148-168.public.utexas.edu>
+Date:   Thu Mar 23 16:36:39 2017 -0500
+
+    close #11
+
+commit a5a1351453cee6f425d15861038622e3bfa99345
+Author: Ahsan Hussain <ahsanhussain@wireless-10-146-148-168.public.utexas.edu>
+Date:   Thu Mar 23 16:06:07 2017 -0500
+
+    close #8
+
+commit 3888c1409893c6644598eead3beff9a3743d7b34
+Author: Ahsan Hussain <ahsanhussain@wireless-10-146-148-168.public.utexas.edu>
+Date:   Thu Mar 23 16:05:23 2017 -0500
+
+    close #7
+
+commit 018b31d216cd4d14ca6727cc0835d6f3785ae759
+Author: Ahsan Hussain <ahsanhussain@wireless-10-147-139-254.public.utexas.edu>
+Date:   Thu Mar 23 13:48:41 2017 -0500
+
+    close #5
+
+commit c4a29e2be8be5279e33c9b403f0a886e8f930829
+Author: Ahsan Hussain <ahsanhussain@wireless-10-147-139-254.public.utexas.edu>
+Date:   Thu Mar 23 13:29:22 2017 -0500
+
+    close #6
+
+commit cfe922718effa7e1941842b4208a8ae69f98a528
+Author: Logan Liebsch <loganliebsch@utexas.edu>
+Date:   Thu Mar 23 12:58:02 2017 -0500
+
+    closes #4
+
+commit 2bb9c359c1340df7b0ac8d99dcbe8f87b4983ee9
+Merge: 23cad43 79bfe4a
+Author: Logan Liebsch <loganliebsch@utexas.edu>
+Date:   Thu Mar 23 11:39:36 2017 -0500
+
+    Merge branch 'dev'
+
+commit 79bfe4a9bac5a4d57fdfc62f33a5d288a61ab24d
+Author: Logan Liebsch <loganliebsch@utexas.edu>
+Date:   Thu Mar 23 11:36:45 2017 -0500
+
+    added splash, fixed typo
+
+commit 23cad43abd7166c2c3f9aa55b7b3946bbf2f78fe
+Author: Ahsan Hussain <ahsanhussain@wireless-10-145-190-51.public.utexas.edu>
+Date:   Thu Mar 23 01:02:33 2017 -0500
+
+    Almost complete about page
+
+commit 7cca462f3a52412a08d8338c66f71ee8b1a4cca5
+Author: Kameesh Valliani <Kameesh Valliani>
+Date:   Thu Mar 23 00:53:44 2017 -0500
+
+    fixed spacing under coach pics
+
+commit 20f6522731f36de423fba14bcd7ac4728350143c
+Author: Kameesh Valliani <Kameesh Valliani>
+Date:   Thu Mar 23 00:46:32 2017 -0500
+
+    changed Monk's picture
+
+commit df961db7f53661342853d02b93ce02c4d005e6a7
+Author: Kameesh Valliani <Kameesh Valliani>
+Date:   Thu Mar 23 00:43:44 2017 -0500
+
+    updating coaches pages
+
+commit 0925ed6109493cb0cb841c91dad7e9eb635a0a51
+Author: Ahsan Hussain <ahsanhussain@wireless-10-145-190-51.public.utexas.edu>
+Date:   Thu Mar 23 00:38:30 2017 -0500
+
+    Updated about page
+
+commit 4bdf2ac4def832d40b3d81a943d9aa01315ddc5a
+Author: AlexKopec <kopec_alex@utexas.edu>
+Date:   Wed Mar 22 22:24:23 2017 -0500
+
+    Fixed typo
+
+commit 1ef1998168d6844b4b09268ed9990c198abffa0c
+Author: AlexKopec <kopec_alex@utexas.edu>
+Date:   Wed Mar 22 22:19:44 2017 -0500
+
+    Finished bare-bones player pages
+
+commit f01aaf357d41d5986aa6d4884c274ec345f324c4
+Author: AlexKopec <kopec_alex@utexas.edu>
+Date:   Wed Mar 22 20:33:57 2017 -0500
+
+    trying to fix broken image links
+
+commit 754f3c55696456f093df0439dcd6878f4f746fec
+Author: AlexKopec <kopec_alex@utexas.edu>
+Date:   Wed Mar 22 20:10:25 2017 -0500
+
+    Finished Team pages
+
+commit 4fdd0e919eed94902357c3b69350f9de41f60b20
+Author: AlexKopec <kopec_alex@utexas.edu>
+Date:   Wed Mar 22 17:18:18 2017 -0500
+
+    created templates for each pillar and about page
+
+commit 29b1d70b94d0d0107cbf0c594a2ec4031ea5becc
+Author: Logan Liebsch <loganliebsch@utexas.edu>
+Date:   Wed Mar 22 01:31:54 2017 -0500
+
+    added starter bootstrap template
+
+commit 355f26d0a61cc662cf58c2784056f5540d49af61
+Author: Logan Liebsch <liebschl@cs.utexas.edu>
+Date:   Tue Mar 21 09:44:12 2017 -0500
+
+    started html, added bootstrap
+
+commit 0b9ed37b081006db798b0714e26146bb8fdd38c3
+Author: Alex Kopec <kopec_alex@utexas.edu>
+Date:   Mon Mar 20 18:06:26 2017 -0500
+
+    Create CNAME
+
+commit 3fb12754d1e0b9c0dedd48e607269feda21d9121
+Author: AlexKopec <kopec_alex@utexas.edu>
+Date:   Tue Mar 7 09:43:29 2017 -0600
+
+    Initial commit
+
+commit e527df6b4fb84be26152b213739d87a2822dc043
+Author: Alex Kopec <kopec_alex@utexas.edu>
+Date:   Tue Mar 7 09:40:20 2017 -0600
+
+    Initial commit
