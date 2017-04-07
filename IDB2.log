@@ -1,0 +1,341 @@
+commit b8bedad75de3aa0f2b9961ab8940fa24c101095e
+Merge: 6977f46 bbf4db9
+Author: Logan Liebsch <loganliebsch@utexas.edu>
+Date:   Thu Apr 6 19:07:52 2017 -0500
+
+    Merge branch 'master' of https://github.com/AlexKopec/AlexKopec.github.io
+
+commit 6977f4652d8cad7bfeaa0859781e537b21b50f45
+Author: Logan Liebsch <loganliebsch@utexas.edu>
+Date:   Thu Apr 6 19:07:17 2017 -0500
+
+    fixed link
+
+commit bbf4db95f66474895b4982d2fc7ab586a432569c
+Author: AlexKopec <kopec_alex@utexas.edu>
+Date:   Thu Apr 6 19:02:17 2017 -0500
+
+    fixed typos
+
+commit 23b614cd06e8fb4870e095128a81dea61640b884
+Author: Logan Liebsch <loganliebsch@utexas.edu>
+Date:   Thu Apr 6 17:07:12 2017 -0500
+
+    SindariusThornwell.html
+
+commit e25b9b6dcc6d0697fa1f620d90f04f8a90524a49
+Author: jkengott <jack.kengott@utexas.edu>
+Date:   Thu Apr 6 13:47:43 2017 -0500
+
+    Added to spash
+
+commit ad62c0051f40f15480cb692669edead5cd706f29
+Author: Ahsan Hussain <ahsanhussain@wireless-10-146-183-142.public.utexas.edu>
+Date:   Thu Apr 6 13:02:13 2017 -0500
+
+    small change to about page
+
+commit deec47be63dcabb2bc15aea9e78d936b95a455da
+Merge: a59e711 bf2cb61
+Author: Ahsan Hussain <ahsanhussain@wireless-10-146-183-142.public.utexas.edu>
+Date:   Thu Apr 6 12:43:46 2017 -0500
+
+    add dillon brooks page
+
+commit a59e7117cd17947882db30aeeedb178feb54b256
+Author: Ahsan Hussain <ahsanhussain@wireless-10-146-183-142.public.utexas.edu>
+Date:   Thu Apr 6 12:38:53 2017 -0500
+
+    updated page for Brooks
+
+commit bf2cb61c92c6c47fc4ac14dc80d0c9588199513e
+Author: jkengott <jack.kengott@utexas.edu>
+Date:   Thu Apr 6 12:35:57 2017 -0500
+
+    Joel Berry Player Page
+
+commit bf451d0e84502fa8b80e14856fb2d2d67b894332
+Author: Ahsan Hussain <ahsanhussain@wireless-10-146-223-248.public.utexas.edu>
+Date:   Wed Apr 5 21:36:59 2017 -0500
+
+    updated about page
+
+commit 364f9e392e3d28a85a46ef0cf372e39573361091
+Author: Ahsan Hussain <ahsanhussain@wireless-10-146-223-248.public.utexas.edu>
+Date:   Wed Apr 5 21:28:54 2017 -0500
+
+    Finished coaches pages
+
+commit 1ed96fe2975793efb362c06c71dc93839ed8f232
+Author: Ahsan Hussain <ahsanhussain@wireless-10-146-223-248.public.utexas.edu>
+Date:   Wed Apr 5 20:56:48 2017 -0500
+
+    updated data model for coaches
+
+commit 1c7e459a7ad26d5afb634da188ab416fea6e5df6
+Author: AlexKopec <kopec_alex@utexas.edu>
+Date:   Wed Apr 5 19:58:31 2017 -0500
+
+    added three new teams
+
+commit f5d3de62c3d42ea29ea8d4cae6927c9e6f123341
+Author: AlexKopec <kopec_alex@utexas.edu>
+Date:   Wed Apr 5 19:02:35 2017 -0500
+
+    added three new teams/coaches
+
+commit c433550643a2c66be292768df241d8da44535a85
+Author: AlexKopec <kopec_alex@utexas.edu>
+Date:   Wed Apr 5 18:42:53 2017 -0500
+
+    another fix for jquery source error
+
+commit 3882ed0a1f7fb1990aac55f4ddd84eae6380b19a
+Author: AlexKopec <kopec_alex@utexas.edu>
+Date:   Wed Apr 5 18:35:21 2017 -0500
+
+    fixed sorting src error
+
+commit 8453078f7aa3710272368261b93093107aa502af
+Author: AlexKopec <kopec_alex@utexas.edu>
+Date:   Wed Apr 5 18:32:45 2017 -0500
+
+    tryinng to fix src error
+
+commit 314c20e660f311f4e6d4dd3ec5381c7deb89b199
+Author: AlexKopec <kopec_alex@utexas.edu>
+Date:   Wed Apr 5 18:25:46 2017 -0500
+
+    added sortable tables closes 18
+
+commit e9aa4b4b332ba9ac4d11c43e24546a7e9d2de49e
+Author: Logan Liebsch <loganliebsch@utexas.edu>
+Date:   Wed Apr 5 16:33:12 2017 -0500
+
+    created 2nd pages for pagination
+
+commit 51dccfebec8bcaf0b4322e6cab31f48c58efa053
+Merge: 1165ee2 bbf8058
+Author: Logan Liebsch <loganliebsch@utexas.edu>
+Date:   Tue Apr 4 21:33:12 2017 -0500
+
+    Merge branch 'dev'
+
+commit bbf8058d2116b0bb60e4689906bfb99993f4a037
+Author: Logan Liebsch <loganliebsch@utexas.edu>
+Date:   Tue Apr 4 21:31:44 2017 -0500
+
+    added pagination to coaches.html, teams.html, and players.html
+
+commit 1165ee291c38c188912d24b509bed1ba53e90ccc
+Author: AlexKopec <kopec_alex@utexas.edu>
+Date:   Thu Mar 23 20:49:58 2017 -0500
+
+    upped commit number
+
+commit 2e4a4a1c2babe1c8b091654731601a879415d338
+Merge: 0e99959 4babd46
+Author: AlexKopec <kopec_alex@utexas.edu>
+Date:   Thu Mar 23 20:49:24 2017 -0500
+
+    Merge branch 'master' of https://github.com/AlexKopec/AlexKopec.github.io
+
+commit 0e999593c9351b642bc20a094083a399821cfea5
+Author: AlexKopec <kopec_alex@utexas.edu>
+Date:   Thu Mar 23 20:49:12 2017 -0500
+
+    upped commit number and closed #12
+
+commit 4babd46f10783c09465bf6dede975223cf2ed8e2
+Author: jkengott <jtkengott@gmail.com>
+Date:   Thu Mar 23 20:37:21 2017 -0500
+
+    Add files via upload
+
+commit 8f365937c19b1283db71c4c8a37964dd5df552b2
+Merge: 98b1220 6e93e45
+Author: AlexKopec <kopec_alex@utexas.edu>
+Date:   Thu Mar 23 19:33:47 2017 -0500
+
+    Merge branch 'master' of https://github.com/AlexKopec/AlexKopec.github.io
+
+commit 98b1220aa580718024784cbed4c65e4944499590
+Author: AlexKopec <kopec_alex@utexas.edu>
+Date:   Thu Mar 23 19:33:15 2017 -0500
+
+    updated about page
+
+commit 6e93e45af6e4f11b43a6a31e2bb2d8f3c52f5b75
+Author: Alex Kopec <kopec_alex@utexas.edu>
+Date:   Thu Mar 23 19:29:18 2017 -0500
+
+    add git log and closed #15
+
+commit 4d1b1c776176e1562e852364a5c24286ef691979
+Author: AlexKopec <kopec_alex@utexas.edu>
+Date:   Thu Mar 23 19:19:40 2017 -0500
+
+    Added a back button that uses javascript which closes #16
+
+commit 27bdd93a4631f90697930c8849226b8c51cdf1d6
+Author: AlexKopec <kopec_alex@utexas.edu>
+Date:   Thu Mar 23 19:07:10 2017 -0500
+
+    add highlight video to player pages, closes #10
+
+commit 2e0040f8abf399fbe4dca52ae91296503a27ba73
+Author: AlexKopec <kopec_alex@utexas.edu>
+Date:   Thu Mar 23 18:48:45 2017 -0500
+
+    fixed coaches link on navbar
+
+commit a292041897874b91374c0b74590df418a4e112c8
+Author: Logan Liebsch <loganliebsch@utexas.edu>
+Date:   Thu Mar 23 18:13:38 2017 -0500
+
+    fix style typo
+
+commit b1e3c8ff11979dab1a3e126479ca14a3bbf2da1d
+Author: Logan Liebsch <loganliebsch@utexas.edu>
+Date:   Thu Mar 23 18:07:24 2017 -0500
+
+    closes #9
+
+commit 5448315f3c1efa282398f205e6c274eba509e04f
+Author: Ahsan Hussain <ahsanhussain@wireless-10-146-148-168.public.utexas.edu>
+Date:   Thu Mar 23 16:36:39 2017 -0500
+
+    close #11
+
+commit a5a1351453cee6f425d15861038622e3bfa99345
+Author: Ahsan Hussain <ahsanhussain@wireless-10-146-148-168.public.utexas.edu>
+Date:   Thu Mar 23 16:06:07 2017 -0500
+
+    close #8
+
+commit 3888c1409893c6644598eead3beff9a3743d7b34
+Author: Ahsan Hussain <ahsanhussain@wireless-10-146-148-168.public.utexas.edu>
+Date:   Thu Mar 23 16:05:23 2017 -0500
+
+    close #7
+
+commit 018b31d216cd4d14ca6727cc0835d6f3785ae759
+Author: Ahsan Hussain <ahsanhussain@wireless-10-147-139-254.public.utexas.edu>
+Date:   Thu Mar 23 13:48:41 2017 -0500
+
+    close #5
+
+commit c4a29e2be8be5279e33c9b403f0a886e8f930829
+Author: Ahsan Hussain <ahsanhussain@wireless-10-147-139-254.public.utexas.edu>
+Date:   Thu Mar 23 13:29:22 2017 -0500
+
+    close #6
+
+commit cfe922718effa7e1941842b4208a8ae69f98a528
+Author: Logan Liebsch <loganliebsch@utexas.edu>
+Date:   Thu Mar 23 12:58:02 2017 -0500
+
+    closes #4
+
+commit 2bb9c359c1340df7b0ac8d99dcbe8f87b4983ee9
+Merge: 23cad43 79bfe4a
+Author: Logan Liebsch <loganliebsch@utexas.edu>
+Date:   Thu Mar 23 11:39:36 2017 -0500
+
+    Merge branch 'dev'
+
+commit 79bfe4a9bac5a4d57fdfc62f33a5d288a61ab24d
+Author: Logan Liebsch <loganliebsch@utexas.edu>
+Date:   Thu Mar 23 11:36:45 2017 -0500
+
+    added splash, fixed typo
+
+commit 23cad43abd7166c2c3f9aa55b7b3946bbf2f78fe
+Author: Ahsan Hussain <ahsanhussain@wireless-10-145-190-51.public.utexas.edu>
+Date:   Thu Mar 23 01:02:33 2017 -0500
+
+    Almost complete about page
+
+commit 7cca462f3a52412a08d8338c66f71ee8b1a4cca5
+Author: Kameesh Valliani <Kameesh Valliani>
+Date:   Thu Mar 23 00:53:44 2017 -0500
+
+    fixed spacing under coach pics
+
+commit 20f6522731f36de423fba14bcd7ac4728350143c
+Author: Kameesh Valliani <Kameesh Valliani>
+Date:   Thu Mar 23 00:46:32 2017 -0500
+
+    changed Monk's picture
+
+commit df961db7f53661342853d02b93ce02c4d005e6a7
+Author: Kameesh Valliani <Kameesh Valliani>
+Date:   Thu Mar 23 00:43:44 2017 -0500
+
+    updating coaches pages
+
+commit 0925ed6109493cb0cb841c91dad7e9eb635a0a51
+Author: Ahsan Hussain <ahsanhussain@wireless-10-145-190-51.public.utexas.edu>
+Date:   Thu Mar 23 00:38:30 2017 -0500
+
+    Updated about page
+
+commit 4bdf2ac4def832d40b3d81a943d9aa01315ddc5a
+Author: AlexKopec <kopec_alex@utexas.edu>
+Date:   Wed Mar 22 22:24:23 2017 -0500
+
+    Fixed typo
+
+commit 1ef1998168d6844b4b09268ed9990c198abffa0c
+Author: AlexKopec <kopec_alex@utexas.edu>
+Date:   Wed Mar 22 22:19:44 2017 -0500
+
+    Finished bare-bones player pages
+
+commit f01aaf357d41d5986aa6d4884c274ec345f324c4
+Author: AlexKopec <kopec_alex@utexas.edu>
+Date:   Wed Mar 22 20:33:57 2017 -0500
+
+    trying to fix broken image links
+
+commit 754f3c55696456f093df0439dcd6878f4f746fec
+Author: AlexKopec <kopec_alex@utexas.edu>
+Date:   Wed Mar 22 20:10:25 2017 -0500
+
+    Finished Team pages
+
+commit 4fdd0e919eed94902357c3b69350f9de41f60b20
+Author: AlexKopec <kopec_alex@utexas.edu>
+Date:   Wed Mar 22 17:18:18 2017 -0500
+
+    created templates for each pillar and about page
+
+commit 29b1d70b94d0d0107cbf0c594a2ec4031ea5becc
+Author: Logan Liebsch <loganliebsch@utexas.edu>
+Date:   Wed Mar 22 01:31:54 2017 -0500
+
+    added starter bootstrap template
+
+commit 355f26d0a61cc662cf58c2784056f5540d49af61
+Author: Logan Liebsch <liebschl@cs.utexas.edu>
+Date:   Tue Mar 21 09:44:12 2017 -0500
+
+    started html, added bootstrap
+
+commit 0b9ed37b081006db798b0714e26146bb8fdd38c3
+Author: Alex Kopec <kopec_alex@utexas.edu>
+Date:   Mon Mar 20 18:06:26 2017 -0500
+
+    Create CNAME
+
+commit 3fb12754d1e0b9c0dedd48e607269feda21d9121
+Author: AlexKopec <kopec_alex@utexas.edu>
+Date:   Tue Mar 7 09:43:29 2017 -0600
+
+    Initial commit
+
+commit e527df6b4fb84be26152b213739d87a2822dc043
+Author: Alex Kopec <kopec_alex@utexas.edu>
+Date:   Tue Mar 7 09:40:20 2017 -0600
+
+    Initial commit
