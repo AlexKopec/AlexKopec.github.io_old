@@ -53,9 +53,9 @@ def players():
 def players2():
     return render_template('Players/Players2.html')
 
-@app.route('/players/DillionBrooks')
-def DillionBrooks():
-    return render_template('Players/DillionBrooks.html')
+@app.route('/players/DillonBrooks')
+def DillonBrooks():
+    return render_template('Players/DillonBrooks.html')
 
 @app.route('/players/FrankMasonIII')
 def FrankMasonIII():
