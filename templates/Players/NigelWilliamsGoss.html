@@ -28,11 +28,11 @@
         </div>
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
-            <li><a href="../index.html">Home</a></li>
-						<li><a href="../Teams/Teams.html">Teams</a></li>
-						<li><a href="../Coaches/Coaches.html">Coaches</a></li>
-            <li><a href="../Players/Players.html">Players</a></li>
-            <li><a href="../about.html">About</a></li>
+            <li><a href={{ url_for('index') }}>Home</a></li>
+			<li><a href={{ url_for('teams') }}>Teams</a></li>
+            <li><a href={{ url_for('coaches') }}>Coaches</a></li>
+            <li><a href={{ url_for('players') }}>Players</a></li>
+            <li><a href={{ url_for('about') }}>About</a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
@@ -44,7 +44,7 @@
         <div class="row">
             <div class="col-lg-12">
                 <h1 class="page-header">Nigel Williams-Gross
-                    <small><a class="nounderline" href="../Teams/Gonzaga.html">Gonzaga Bulldogs</a></small>
+                    <small><a class="nounderline" href={{ url_for('Gonzaga') }}>Gonzaga Bulldogs</a></small>
                 </h1>
             </div>
         </div>
@@ -62,13 +62,13 @@
 										</ol>
 										<div class="carousel-inner">
 												<div class="item active">
-														<img class="slide-image" src="../images/NWG3.jpg" alt="">
+														<img class="slide-image" src="../../static/images/NWG3.jpg" alt="">
 												</div>
 												<div class="item">
-														<img class="slide-image" src="../images/NWG2.jpg" alt="">
+														<img class="slide-image" src="../../static/images/NWG2.jpg" alt="">
 												</div>
 												<div class="item">
-														<img class="slide-image" src="../images/NWG1.jpg" alt="">
+														<img class="slide-image" src="../../static/images/NWG1.jpg" alt="">
 												</div>
 										</div>
 										<a class="left carousel-control" href="#carousel-example-generic" data-slide="prev"></a>
@@ -80,7 +80,7 @@
                 <h2>Player Details</h2>
                 <h3><i>Player Bio</i></h3>
 								<p>
-									Nigel Williams-Gross is currenly a Junior Guard playing for the <a href="../Teams/Gonzaga.html">Gonzaga University Wildcats </a>under the coaching of <a href="../Coaches/MarkFew.html">Mark Few.</a>
+									Nigel Williams-Gross is currenly a Junior Guard playing for the <a href= {{ url_for('Gonzaga') }}>Gonzaga University Wildcats </a>under the coaching of <a href={{ url_for('MarkFew') }}>Mark Few.</a>
 								</p>
                 <h3><i>Season Stats</i></h3>
                 <table class="table table-bordered">
@@ -131,9 +131,9 @@
 
         <hr>
 
-    <script src="../jquery.min.js"></script>
+    <script src="../../static/js/jquery.min.js"></script>
     <script>window.jQuery || document.write('<script src="jquery.min.js"><\/script>')</script>
-    <script src="../bootstrap.min.js"></script>
+    <script src="../../static/js/bootstrap.min.js"></script>
 
 	</body>
 </html>
