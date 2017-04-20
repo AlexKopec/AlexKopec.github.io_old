@@ -25,14 +25,14 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="index.html">NCAA Basketball</a>
+          <a class="navbar-brand" href={{ url_for('index') }}>NCAA Basketball</a>
         </div>
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
-            <li><a href="index.html">Home</a></li>
-            <li><a href="./Teams/Teams.html">Teams</a></li>
-            <li><a href="./Coaches/Coaches.html">Coaches</a></li>
-            <li><a href="./Players/Players.html">Players</a></li>
+            <li><a href={{ url_for('index') }}>Home</a></li>
+            <li><a href={{ url_for('teams') }}>Teams</a></li>
+            <li><a href={{ url_for('coaches') }}>Coaches</a></li>
+            <li><a href={{ url_for('Players') }}>Players</a></li>
 						<li class="active"><a>About</a></li>
           </ul>
         </div><!--/.nav-collapse -->
