@@ -28,11 +28,11 @@
         </div>
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
-            <li><a href="../index.html">Home</a></li>
-						<li><a href="../Teams/Teams.html">Teams</a></li>
-						<li><a href="../Coaches/Coaches.html">Coaches</a></li>
-            <li><a href="../Players/Players.html">Players</a></li>
-            <li><a href="../about.html">About</a></li>
+            <li><a href={{ url_for('index') }}>Home</a></li>
+			<li><a href={{ url_for('teams') }}>Teams</a></li>
+            <li><a href={{ url_for('coaches') }}>Coaches</a></li>
+            <li><a href={{ url_for('players') }}>Players</a></li>
+            <li><a href={{ url_for('about') }}>About</a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
@@ -44,7 +44,7 @@
         <div class="row">
             <div class="col-lg-12">
                 <h1 class="page-header">Dillon Brooks
-                    <small><a class="nounderline" href="../Teams/Oregon.html">Oregon Ducks</a></small>
+                    <small><a class="nounderline" href={{ url_for('Oregon') }}>Oregon Ducks</a></small>
                 </h1>
             </div>
         </div>
@@ -81,7 +81,7 @@
                 <h2>Player Details</h2>
                 <h3><i>Player Bio</i></h3>
 								<p>
-									Dillon Brooks is currenly a Junior Guard playing for the <a href="../Teams/Oregon.html">University of Oregon Ducks </a>under the coaching of <a href="../Coaches/DanaAltman.html">Dana Altman.</a>
+									Dillon Brooks is currenly a Junior Guard playing for the <a href={{ url_for('Oregon') }}>University of Oregon Ducks </a>under the coaching of <a href={{ url_for('DanaAltman') }}>Dana Altman.</a>
 								</p>
                 <h3><i>Season Stats</i></h3>
                 <table class="table table-bordered">
